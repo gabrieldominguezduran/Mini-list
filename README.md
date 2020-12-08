@@ -1,6 +1,6 @@
 # Mini List App
 
-App fpr create a list where you can create edit and delete items
+With this app you can create a list where you can create, edit, and delete items.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
